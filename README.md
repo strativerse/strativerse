@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://strativerse.ai/logo.png" alt="Strativerse AI Logo" width="180">
-</p>
 
-<h1 align="center">🚀 Strativerse AI</h1>
+<h1 align="center"> Strativerse AI</h1>
 
 <p align="center">
   <strong>Turn Your Trading Strategy Into Production-Ready Code</strong>
